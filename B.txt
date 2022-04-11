@@ -1,1 +1,6 @@
-asdfasdfasdfasdfasdfasdf
+git bash ssh 로 주소 사용
+
+
+1. ssh-kengen 생성
+2. 사용할 repo 에 pub_ras key 등록 
+3. git 처음 주소 clone 시 (yse, no 여부 확인 ssh key을 사용한 부분으로 처리 했다면 비번 입력
